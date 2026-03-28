@@ -221,13 +221,9 @@ article h2 {
 }
 
 .certificados {
-  font-size: 20px;
-  width: 250px;
-  height: 200px;
-  aspect-ratio: 16/9;
+  max-width: 700px;
+  max-height: 350px;
   object-fit: cover;
-  border-radius: 8px;
-
 }
 
 .formacao-container .periodo {
